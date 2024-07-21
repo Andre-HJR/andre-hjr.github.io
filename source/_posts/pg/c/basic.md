@@ -31,3 +31,30 @@ INT wmain(CONST INT ARGC, CONST WCHAR** ARGV, CONST WCHAR** ENVP)
 	return RET_STATUS;
 }
 {% endcodeblock %}
+
+## 变量和常量
+
+
+## 条件判断
+
+## 循环
+
+## 结构体
+
+## IO的部分
+
+## 奇技淫巧
+
+### 宏编程的艺术
+
+## 谈一下 Python
+
+### 写个插件
+
+> 以 Python2.7.18 和 vc10 为例
+
+## 谈一下 C++
+
+
+## 谈一下 Fortran
+
